@@ -1,2 +1,2 @@
 I suck at programming <br>
-Leetcode:- [Sunaan](leetcode.com/Sunaan)
+Leetcode:- [Sunaan](https://leetcode.com/Sunaan/)
